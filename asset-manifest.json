@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/admin-pacientes/static/css/main.b6152572.chunk.css",
+    "main.js": "/admin-pacientes/static/js/main.1c7dac54.chunk.js",
+    "main.js.map": "/admin-pacientes/static/js/main.1c7dac54.chunk.js.map",
+    "runtime-main.js": "/admin-pacientes/static/js/runtime-main.fb0bf61f.js",
+    "runtime-main.js.map": "/admin-pacientes/static/js/runtime-main.fb0bf61f.js.map",
+    "static/js/2.ad46ac13.chunk.js": "/admin-pacientes/static/js/2.ad46ac13.chunk.js",
+    "static/js/2.ad46ac13.chunk.js.map": "/admin-pacientes/static/js/2.ad46ac13.chunk.js.map",
+    "index.html": "/admin-pacientes/index.html",
+    "precache-manifest.b1fe9259d47e1e855489c38564002790.js": "/admin-pacientes/precache-manifest.b1fe9259d47e1e855489c38564002790.js",
+    "service-worker.js": "/admin-pacientes/service-worker.js",
+    "static/css/main.b6152572.chunk.css.map": "/admin-pacientes/static/css/main.b6152572.chunk.css.map",
+    "static/js/2.ad46ac13.chunk.js.LICENSE.txt": "/admin-pacientes/static/js/2.ad46ac13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0bf61f.js",
+    "static/js/2.ad46ac13.chunk.js",
+    "static/css/main.b6152572.chunk.css",
+    "static/js/main.1c7dac54.chunk.js"
+  ]
+}
